@@ -1,0 +1,4 @@
+﻿  Lab7.cpp
+c:\users\cohen\documents\visual studio 2015\projects\lab 7\lab 7\lab7.cpp(126): warning C4715: 'findMaxFraction': not all control paths return a value
+  lab 7.vcxproj -> C:\Users\Cohen\Documents\Visual Studio 2015\Projects\lab 7\Debug\lab 7.exe
+  lab 7.vcxproj -> C:\Users\Cohen\Documents\Visual Studio 2015\Projects\lab 7\Debug\lab 7.pdb (Partial PDB)
